@@ -10,3 +10,4 @@
   and the caller should be above the callee, if at all possible
 - Group blocks of code that have a strong affinity towards each other. (IE. a function that calls another function, a function that calls a variable)
 - 80-120 character horizontal limit
+- Indentation should show the heirarcy of the code blocks,
